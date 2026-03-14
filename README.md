@@ -4,8 +4,8 @@ An AI-powered plant health monitoring system that helps detect plant diseases, a
 This project uses Artificial Intelligence, Computer Vision, and modern web technologies to assist farmers, gardeners, and plant lovers in maintaining healthy plants.
 
 🚀 Demo
-
-🔗 Live Demo: (Add your deployed link here)
+Update deployment
+🔗 Live Demo: (https://vercel.com/sugatanayak65-2146s-projects/plant-monitoring-ai/J6zrxg6EwNija7aDeCtgBEa2jU1se)
 📹 Project Demo Video: (Add YouTube / Drive link)
 
 📸 Screenshots

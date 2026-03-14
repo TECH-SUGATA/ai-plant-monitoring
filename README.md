@@ -5,7 +5,7 @@ This project uses Artificial Intelligence, Computer Vision, and modern web techn
 
 🚀 Demo
 Update deployment
-🔗 Live Demo: (https://plant-monitoring-ai.vercel.app)e)
+🔗 Live Demo: (https://plant-monitoring-ai.vercel.app)
 📹 Project Demo Video: (Add YouTube / Drive link)
 
 📸 Screenshots
